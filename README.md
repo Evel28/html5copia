@@ -1,3 +1,2 @@
 # html5copia
-Proyecto inconcluso
-Primer proyecto inconcluso agregado.
+Primer proyecto inconcluso subido a Github.
